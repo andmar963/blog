@@ -174,7 +174,7 @@ ul.navbar li a:hover:not(.active){
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.712)),
-    url(../images/fortnit.jpg);
+    url(blog/images/reemp1.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -225,6 +225,11 @@ ul.navbar li a:hover:not(.active){
 }
 .section-1-img  .img-6{
     background: url(../images/fortnite.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.section-1-img  .reemp.2{
+    background: url(blog/images/reemp2.jpg);
     background-size: cover;
     background-position: center;
 }
