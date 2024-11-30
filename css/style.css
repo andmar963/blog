@@ -174,7 +174,7 @@ ul.navbar li a:hover:not(.active){
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.767),rgba(0, 0, 0, 0.712)),
-    url(blog/images/reemp1.jpg);
+    url(../images/reemp1.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -214,7 +214,7 @@ ul.navbar li a:hover:not(.active){
     background-position: center;
 }
 .section-1-img  .img-4{
-    background: url(../images/warxone.jpg);
+    background: url(../images/reemp2.jpg);
     background-size: cover;
     background-position: center;
 }
